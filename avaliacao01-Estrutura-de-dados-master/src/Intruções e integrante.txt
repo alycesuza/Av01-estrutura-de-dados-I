@@ -1,0 +1,23 @@
+// Alunos:
+// Alyce Fernandes Silva
+// Anderson Félix de Araújo Júnior
+
+// Instruções da atividade :
+
+// 1) um programa que testa se uma sequência de caracteres fornecida pelo usuário é um palíndromo, ou seja, 
+// se é uma palavra cuja escrita é igual nas duas direções. Veja os exemplos:
+// AABCCBAA - palíndromo
+// ADDFDDA - palíndromo
+// ABFFBB - não palíndromo
+
+// 2) um programa para verificar se uma expressão matemática tem os parênteses agrupados de forma correta, isto é: 
+// (1) se o número de parênteses à esquerda e à direita são iguais; 
+// (2) se todo parêntese aberto é seguido posteriormente por um fechamento de parêntese.
+// Dica: Use os métodos de entrada do JAVA para receber a expressão matemática como uma string.
+
+// Exemplo 1: A expressão ((A+B) ou A+B( viola a condição 1
+// Exemplo 2: A expressão )A+B( – C ou (A+B)) – (C + D viola a condição 2
+// Orientações:Os exercícios devem ser entregues na forma de um arquivo compactado, contendo a pasta com os arquivos dos exercícios. 
+// Critérios de avaliação: organização do código e completeza (cumprimento de todos os requisitos do enunciado). 
+// O trabalho deve ser feito em grupos de no mínimo 2 e até 3 alunos. Cópias entre grupos serão severamente penalizadas.
+// Apenas um integrante do grupo deve enviar o arquivo compactado, indicando (com um arquivo de texto dentro do projeto) os integrantes do grupo.
